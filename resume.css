@@ -1,0 +1,99 @@
+
+h4 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.myname-div {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2em;
+}
+.myname-div-light {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2em;
+	color: blue;
+}
+.myname-div-dark {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2em;
+	color: red;
+}
+
+.myheader-table {
+    border-collapse: collapse;
+    border: 0px;
+    margin: 0px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 100%;
+}
+
+.myaddress-div {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.1em;
+  padding-left: .8em;
+  padding-top: .3em;
+}
+
+.mycontact-div {
+	font-family: Courier;
+	font-size: .9em;
+	padding-top: .1em;
+}
+
+.myExperience-table {
+    min-width: 100%;
+}
+
+.mySummarytext {
+	font-family: Times New Roman, Times, serif;
+	font-size: 1em;
+	padding-top: .1em;
+}
+
+.myExperiencetext {
+	font-family: Times New Roman, Times, serif;
+	font-size: 1em;
+	padding-top: .1em;
+}
+
+.experienceHeader {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.2em;
+  padding-left: .8em;
+  padding-top: .3em;
+}
+
+.experienceHeaderdates {
+	text-align: right;
+	font-size: .8em;
+}
+
+.experienceHeadercompany {
+	text-align: left;
+}
+
+.section-break {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2em;
+  border-width: 1px;
+  border-top-style: solid;
+  border-bottom-style: solid;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.section-break-button {
+	float: right;
+	vertical-align: top;
+}
+
+.tabled-left {
+	text-align: left;
+}
+
+.tabled-right {
+	text-align: right;
+	vertical-align: top;
+}
+
+
